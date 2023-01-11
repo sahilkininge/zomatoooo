@@ -1,2 +1,2 @@
-#zomatoooo
-Tried to create a zomato landing page using HTML and CSS 
+
+Tried to create a zomato responsive landing page using HTML and CSS 
